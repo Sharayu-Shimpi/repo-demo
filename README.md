@@ -1,4 +1,4 @@
-# repo-demo
+# Repo-demo
 This is My First Git Repository.
 <br>
 Author - Sharayu Shimpi
